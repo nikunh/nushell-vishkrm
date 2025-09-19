@@ -1,0 +1,10 @@
+{
+  "id": "nushell",
+  "version": "0.0.1",
+  "name": "nushell",
+  "description": "Install Nushell.",
+  "documentationURL": "https://github.com/nikunh/nushell-vishkrm",
+  "licenseURL": "https://github.com/nikunh/nushell-vishkrm/blob/main/LICENSE",
+  "options": {},
+  "installsAfter": []
+}
