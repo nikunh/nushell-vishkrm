@@ -1,6 +1,6 @@
 {
   "id": "nushell",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "nushell",
   "description": "Install Nushell.",
   "documentationURL": "https://github.com/nikunh/nushell-vishkrm",
