@@ -11,3 +11,4 @@ tar -xzf /tmp/nu.tar.gz -C /tmp
 mv /tmp/nu-${NUSHELL_VERSION}-x86_64-unknown-linux-gnu/nu "$INSTALL_DIR/nu"
 chmod +x "$INSTALL_DIR/nu"
 echo "nushell installed: $($INSTALL_DIR/nu --version)"
+# Auto-trigger build Tue Sep 23 20:03:19 BST 2025
